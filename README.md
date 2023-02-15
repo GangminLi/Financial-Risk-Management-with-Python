@@ -1,3 +1,11 @@
+# Credit-Risk-Analysis-with-Bank-loan
+This is the third part of practical for Finanial Risk managemtn course:
+1. Financial Risk Management Python Basics
+2. Financial Risk Management Return Analyses
+3. Financial Risk Management for Bank loan
+
+This materials was collected, edited and tested for a Chinese University MBA course. The students do not have any computer, software and python language knowledge.
+
 # Financial Data Analysis With Python
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GangminLi/Basics-Financial-Risk-Management/HEAD)
 ### A 2h Full Online Video course
