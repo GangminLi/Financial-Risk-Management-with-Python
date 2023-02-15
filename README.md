@@ -1,6 +1,16 @@
-# Financial Data Analysis With Python
+# Credit-Risk-Analysis-with-Bank-loan
+This is the third part of practical for Finanial Risk managemtn course:
+1. Financial Risk Management Python Basics
+2. Financial Risk Management Return Analyses
+3. Financial Risk Management for Bank loan
 
-### A 2h Full Online Video course
+This materials was collected, edited and tested for a Chinese University MBA course. The students do not have any computer, software and python language knowledge.
+
+# Financial Data Analysis With Python
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GangminLi/Basics-Financial-Risk-Management/HEAD)
+
+This tutorial taken from TUNE, the original 2hours online course with videos.
+### Tune Online Video course
 - [Course page](https://www.learnpythonwithrune.org/start-python-with-pandas-for-financial-analysis/)
 - [YouTube course playlist](https://youtube.com/playlist?list=PLvMRWNpDTNwQF6t_Tq7aVX0AI6H1avSpv)
 
@@ -11,8 +21,9 @@ There are two options
 
 
 ### Option 1
-- You need Anaconda (with Jupyter Notebook and Python) installed (instructions on course page)
-- Go to [Course page](https://www.learnpythonwithrune.org/start-python-with-pandas-for-financial-analysis/)
+- You need Anaconda (with Jupyter Notebook and Python) installed (instructions on tutoral)
+- Read tutorial, watch video and follow the individual notebook
+- Run the python code and add your interpretation if you want
 
 ### Option 2
 - No installations needed
